@@ -12,6 +12,8 @@ This project investigates the global risk of language extinction using machine l
 | Regression     | Blended CatBoost + RF | R² = 0.04 | Generalization was limited due to sparse features                      |
 | Forecasting    | Bootstrap simulation  | 📉        | Brazil, India, and Mexico may lose 15–17 languages each                |
 
+![2035 Project Poster](language-endangerment-risk-by-country-image)
+
 # Objectives
 - Classify languages based on endangerment severity
 - Predict endangered language counts per country
