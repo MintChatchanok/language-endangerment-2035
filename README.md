@@ -1,4 +1,4 @@
-# Project Description
+# 🔥 Language Endengerment Prediction 2035
 This project investigates the global risk of language extinction using machine learning. I analyze endangered languages worldwide to:
 - Classify languages by their endangerment level
 - Predict at-risk regions based on language loss trends
